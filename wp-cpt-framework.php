@@ -158,5 +158,5 @@ class WPCustomPostType {
 	}
 }
 
-$scholar	= new WPCustomPostType;
+$wpcptf	= new WPCustomPostType;
 ?>

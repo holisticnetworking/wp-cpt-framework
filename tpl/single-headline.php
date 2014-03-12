@@ -1,10 +1,9 @@
 <?php
 /**
- * The template for displaying all single posts
+ * The template for displaying all single headlines
  *
- * @package WordPress
- * @subpackage Twenty_Thirteen
- * @since Twenty Thirteen 1.0
+ * @package WP-CPT-Framework
+ * 
  */
 
 get_header(); ?>
