@@ -4,7 +4,7 @@ An easy startup for creating WordPress Custom Post Types with taxonomies and cus
 
 ## FYI: This is Not a Plugin!
 
-The WP CPT Framework really just works as a template for creating your own Custom Post Types the old fashioned way.
+The WP CPT Framework really just works as a template for creating your own Custom Post Types the old fashioned way. You can install it into your /plugins folder and you can turn it on and it will work. But unless you want a CPT called "headlines," you're going to need to do some of your own coding.
 
 ### Contained in this framework:
 - A main controller
